@@ -6,3 +6,7 @@
 */
 
 #include "corne-ish_zen.keymap"
+
+&five_column_transform {
+    col-offset = <6>;
+};
