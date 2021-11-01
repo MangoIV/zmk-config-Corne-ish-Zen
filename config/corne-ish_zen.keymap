@@ -71,7 +71,7 @@
             &kp ESC &kp F1 &kp F2 &kp F3 &kp F4 &out OUT_USB &out OUT_BLE &none  &kp EQUAL &kp MINUS
             &none &kp F5 &kp F6 &kp F7 &kp F8 &kp LBKT &kp RBKT &none &kp GRAVE &kp BSLH
             &kp LSHFT &kp F9 &kp F10 &kp F11 &kp F12 &none &none &none &reset &bootloader &kp RSHFT
-            &kp LTRL &kp LALT &kp LCTRL &none &trans &none
+            &kp LGUI &kp LALT &kp LCTRL &none &trans &none
 			>;
 		};
 	};
